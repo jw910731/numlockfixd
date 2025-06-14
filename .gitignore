@@ -1,4 +1,7 @@
-## Xcode
+## Nix
+result
+
+# Xcode
 build/
 ## User settings
 xcuserdata/
